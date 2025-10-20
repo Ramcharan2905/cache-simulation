@@ -50,7 +50,7 @@ The goal is to simulate the interaction between a CPU and a set-associative cach
 
 1.  **Clone the repository**
     ```bash
-    git clone <your-repo-url>
+    git clone https://github.com/Ramcharan2905/cache-simulation/
     cd cache-simulator-cpp
     ```
 
